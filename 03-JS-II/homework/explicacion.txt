@@ -1,0 +1,15 @@
+EXPLICACIÓN:
+
+* `for`
+El ciclo "For" es una operación en el lenguaje de programación usado para realizar operaciones de ciclos donde se requiere efectuar
+tantas operaciones por un número determinado de veces o hasta que se cumpla una condición. Esto facilita la escritura de
+muchos procesos repetitivos para obtener un resultado.
+
+* `&&`, `||`, `!`
+Operador && : Realiza una comparación entre dos o más expresiones para validar que la función sea correcta. Por el contrario
+devuelve false si una de ellas no cumple la condición, este operador establece una relación de tipo booleano para evaluar una afirmación.
+
+Operador || : Realiza una comparación y retorna un valor de tipo booleano para evaluar si una o más expresiones satisfacen
+una condición para que la función pueda retornar un valor true.
+
+Operador ! : Invierte el  valor de la expresión, es decir devuelve un true cuando la expresión no es verdadera.

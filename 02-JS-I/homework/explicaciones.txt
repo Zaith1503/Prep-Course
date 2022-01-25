@@ -1,0 +1,19 @@
+ * Variables
+ Las variables representan un tipo de dato que puede ser números enteros, números decimales, cadenas o "strings",
+ etc., con la cual se pueden realizar operaciones algoritmicas.
+
+ * Strings
+ Como su nombre indica es una cadena de caracteres que puede ser representado por simbolos o caracteres alfanuméricos y debe contenerse entre comillas, de esta manera
+ puede ser identificado como un tipo de dato String.
+
+ * Funciones (argumentos, `return`)
+ Las funciones son una serie de instrucciones que se ejecutan para obtener un valor o realizar una tarea. Dichas funciones pueden recibir
+ parámetros o expresiones que pueden ser evaluadas para luego retornar o devolver uno o más valores.
+
+ * Declaraciones `if`
+ L a declaración if se usa para realizar comparaciones entre dos o mas variables u objetos con el fin de realizar operaciones
+ que permitan obtener un resultado luego de ser evaluada la expresión, por ejemplo.
+ Si 2 > 1 es verdadero.
+
+ * Valores booleanos (`true`, `false`)
+ Los valores booleanos son aquellos que solo se pueden representar como lógica binaria o sea 1 o 0,  true o false.

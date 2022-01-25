@@ -1,0 +1,5 @@
+EXPLICACIÓN:
+
+* Arrays
+Los Arrays son una agrupación de datos dentro de un objeto. Esto es comúnmente usado para realizar operaciones
+donde se requiere un contenedor para almacenar colecciones de datos en una sola variable.
