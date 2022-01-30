@@ -1,0 +1,14 @@
+EXPLICACIONES :
+
+    * Objetos
+    Los objetos son contenedores de datos que representan un solo elemento y se declaran entre llaves {}, como los arreglos los objetos pueden contener información
+    por ejemplo la variable perro; este objeto puede contener informacion como nombre, edad, sexo y numero de patas.
+
+	* Propiedades
+    Las propiedades o atributos de un objeto son los valores que
+
+	* Métodos
+
+	* Bucle `for…in`
+
+	* Notación de puntos vs notación de corchetes

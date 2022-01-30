@@ -1,0 +1,4 @@
+EXPLICACIÓN:
+
+* Funciones Callback
+Las funciones Callbacks son aquellas en las que obtienes un ...... como return, estas funciones son usadas en su mayoría para ....
