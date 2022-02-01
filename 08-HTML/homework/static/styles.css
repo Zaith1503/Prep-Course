@@ -1,0 +1,42 @@
+h1 {
+  color: orangered;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+strong {
+  color: orangered;
+  font-size: 26px;
+}
+
+img {
+  width: 400px;
+  justify-content: center;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: darkgoldenrod;
+  padding: 50px;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 70px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 40px;
+  border-color: rgb(96, 202, 244);
+  border-style: dotted;
+  border-width: 10px;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}

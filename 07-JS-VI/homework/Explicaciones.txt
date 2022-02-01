@@ -1,4 +1,6 @@
 EXPLICACIÓN:
 
 * Funciones Callback
-Las funciones Callbacks son aquellas en las que obtienes un ...... como return, estas funciones son usadas en su mayoría para ....
+Las funciones Callbacks son aquellas en las que obtienes como argumento otra función para tener,
+para volver a llamarla de nuevo en otro momento. Estas funciones son muy útiles para que solicitudes externas
+a nuestro programa (APIś) puedan tener respuesta sin que nuestro programa se detenga.
