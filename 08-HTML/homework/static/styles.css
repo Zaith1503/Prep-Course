@@ -1,30 +1,67 @@
+body {
+  position: relative;
+  background-image: linear-gradient(black, black),
+    url(https://www.loving-miami.com/wp-content/uploads/2019/05/South-Beach-Miami-Beach-190326163013002-1280x640.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-blend-mode: saturation;
+  box-shadow: inset 0px 0px 3000px 3000px rgba(2, 34, 58, 0.6);
+}
+
+h2 {
+  display: flex;
+  margin-top: 15px;
+  color: orange;
+  text-align: center;
+}
+
 h1 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: orangered;
   text-align: center;
 }
 
 h3 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
+  color: rgb(233, 199, 10);
 }
 
 h4 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
+  color: papayawhip;
 }
 
-strong {
-  color: orangered;
-  font-size: 26px;
+#logo {
+  position: fixed;
+  top: 20px;
+  background-color: #c79c60;
+}
+
+a {
+  margin-top: 20px;
+  display: absolute;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
+  display: block;
+  position: center;
   width: 400px;
-  justify-content: center;
+  margin: auto;
 }
 
 #thirdDiv {
-  height: 600px;
+  height: 900px;
   width: 500px;
-  background-color: darkgoldenrod;
+  margin: auto;
+  margin-right: auto;
+  background-color: rgba(21, 50, 180, 0.164);
   padding: 50px;
   border-radius: 50px;
   -webkit-border-radius: 50px;
@@ -34,9 +71,30 @@ img {
   border-color: rgb(96, 202, 244);
   border-style: dotted;
   border-width: 10px;
+  display: flex;
 }
 
 #spanId {
+  position: flex;
+  width: 600px;
   font-size: 18px;
-  margin: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  color: bisque;
+  text-align: justify;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+ul {
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
 }
